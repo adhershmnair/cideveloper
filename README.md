@@ -1,5 +1,6 @@
 # ODOSTORE AdminLTE 
-
+[![Build Status](https://img.shields.io/badge/odostore-codeigniter-brightgreen.svg?style=flat)](http://www.odostore.in)
+[![Build Status](https://img.shields.io/badge/odostore-adminlte-red.svg?style=flat)](http://www.odostore.in)
 ### Login
  * Email : `admin@odostore.in`
  * Password : `password`
